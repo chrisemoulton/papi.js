@@ -19,7 +19,7 @@
   "dependencies": {
     "dodgy": "1.1.0",
     "isomorphic-fetch": "2.2.1",
-    "lodash": "4.6.1",
+    "lodash": "4.17.21",
     "promiz": "1.0.5",
     "querystring": "0.2.0",
     "ramda": "^0.21.0"
